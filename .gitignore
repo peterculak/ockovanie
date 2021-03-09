@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+yarn.lock
+.idea
+get_all_drivein_times_vacc.json
+
 # dependencies
 /node_modules
 /.pnp
